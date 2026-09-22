@@ -1,16 +1,18 @@
-# Trinity SMP
+# MaceRoyale
 
-Trinity SMP is a class-based PvP plugin for Paper and Spigot servers that transforms combat through unique playstyles and progression.
+MaceRoyale is a Paper plugin designed for Free-For-All servers, built around a single legendary enchanted mace that continuously rotates between players.
 
-Players are randomly assigned one of three classes — Reaper, Wraith, or Sovereign — each with its own ability tree and progression path. As players gain vanilla XP, they unlock increasingly powerful abilities across five tiers, creating a dynamic and evolving PvP experience.
+The mace is never dropped, never lost, and always remains in circulation. Players compete to control the weapon while automatic reroll systems ensure the action never stops.
 
 ## Features
 
-- Three unique combat classes
-- Five progression tiers per class
-- XP-based ability unlocking
-- Class reroll system
-- Live progress GUI
-- Configurable cooldowns
-- WorldGuard compatibility
-- Fully configurable gameplay settings
+- Legendary enchanted mace event
+- Automatic player-to-player rotation
+- Death-triggered rerolls
+- Spawn-zone protection support
+- Configurable hold-time limits
+- WorldGuard integration
+- Live roll animations
+- Broadcast announcements
+- Administrative control commands
+- Fair random player selection
